@@ -38,3 +38,6 @@ npm run start
 ```
 
 Finally, navigate to `http://localhost:5000/` and you should see the API running!
+
+# Credits
+https://github.com/polcham/mongoose-express-ts
