@@ -14,7 +14,7 @@ To build and run this app locally you will need a few things:
 - Clone the repository
 
 ```
-git clone --depth=1 https://github.com/polcham/mongoose-express-ts.git <project_name>
+git clone --depth=1 https://github.com/vimaltiwari2612/mongoose-express-ts.git <project_name>
 ```
 
 - Install dependencies
@@ -38,6 +38,11 @@ npm run start
 ```
 
 Finally, navigate to `http://localhost:5000/` and you should see the API running!
+
+# Project Details
+
+![image](https://user-images.githubusercontent.com/22127564/161116994-1188b0d4-e75e-453c-9acb-33246b2e611a.png)
+
 
 # Credits
 https://github.com/polcham/mongoose-express-ts
