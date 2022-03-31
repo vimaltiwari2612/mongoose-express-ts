@@ -1,4 +1,4 @@
-# Mongoose Node.js Express TypeScript application boilerplate with best practices for API development.
+# Mongoose Node.js Express TypeScript application boilerplate.
 
 ![image](https://user-images.githubusercontent.com/10678997/57565876-01281b00-73f8-11e9-8d86-911faa4a6c0f.png)
 
@@ -43,6 +43,10 @@ Finally, navigate to `http://localhost:5000/` and you should see the API running
 
 ![image](https://user-images.githubusercontent.com/22127564/161116994-1188b0d4-e75e-453c-9acb-33246b2e611a.png)
 
+- Model : Schema and POJO creation
+- Controller : for Business Logic
+- Route : for API
+- Util : for helper classes
 
 # Credits
 https://github.com/polcham/mongoose-express-ts
